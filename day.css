@@ -44,3 +44,9 @@ h1{
     font-style: oblique;
     font-family: serif;
 }
+input:hover {
+    box-shadow: 0 0 10px rgb(255, 255, 255);
+  }
+select:hover {
+    box-shadow: 0 0 10px rgb(255, 255, 255);
+  }
